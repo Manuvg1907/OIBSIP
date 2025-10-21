@@ -1,1 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Features</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+    <h1>Our Project Features</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="features.html">Features</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+<main>
+    <section class="features-list-section">
+        <h2>Key Features</h2>
+        <div class="feature-box feature-html">
+            <h3>Modern HTML Structure</h3>
+            <p>Clean, semantic HTML with well-organized sections for easy editing.</p>
+        </div>
+        <div class="feature-box feature-css">
+            <h3>Colorful CSS Styling</h3>
+            <p>Vibrant and mixed color palette that makes every section stand out and looks fantastic.</p>
+        </div>
+        <div class="feature-box feature-resp">
+            <h3>Responsive Columns</h3>
+            <p>Neatly divided columns for showcasing different types of content on all devices.</p>
+        </div>
+        <div class="feature-box feature-hover">
+            <h3>Hover Color Effects</h3>
+            <p>Interactive hover color transitions for enhanced user experience.</p>
+        </div>
+        <div class="feature-box feature-form">
+            <h3>Contact Form</h3>
+            <p>Easy-to-use contact form to connect instantly (see our Contact page).</p>
+        </div>
+    </section>
+</main>
+<footer>
+    <p>&copy; 2025 Your Name. Made with HTML and CSS.</p>
+</footer>
+</body>
+</html>
 
